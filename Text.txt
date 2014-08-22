@@ -1,0 +1,17 @@
+10.23    40.50  /* É tão legal
+escrever um comentário e 
+o compilador ignorar 
+*/ soma_text
+
+quantidade 15 /*adicionei outro comentario
+
+só que resolvi 
+
+fechar só aqui e adicionei um * antes de fechar 
+e também um / só para complicar */
+nomeCliente -743
+telefone -123.56
+
+15 24 transic25                          _somaDec23
+
+
